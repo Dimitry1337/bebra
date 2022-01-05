@@ -1,0 +1,47 @@
+body {
+ background-color: lightcyan;
+}
+img {
+  width: 700px;
+}
+h1{
+  color: brown;
+  font-family: fantasy;
+}
+p{
+  font-family: Arial;
+  font-size: 20px;
+}
+#izmers {
+  font-size: 50px;
+}
+.platums {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.border {
+  empty-cells: show;
+  border-collapse: separate;
+  border: 2px solid red;
+}
+.border2 {
+  empty-cells: show;
+  border-collapse: separate;
+  border: 2px solid black;
+}
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
